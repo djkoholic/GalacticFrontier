@@ -1,6 +1,6 @@
-﻿# GalacticFrontier
+﻿# Galactic Frontier
 
-Uploaded the windows build here. To play the game on browser, [Galatic Frontier](djkoholic.itch.io/galactic-frontier)
+Uploaded the windows build here. To play the game on browser, [Galatic Frontier](https://djkoholic.itch.io/galactic-frontier)
 
 Modifications:
 
